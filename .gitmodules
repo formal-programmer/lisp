@@ -1,0 +1,3 @@
+[submodule "lib/cstd"]
+	path = lib/cstd
+	url = https://github.com/formal-programmer/cstd
